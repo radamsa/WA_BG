@@ -502,7 +502,6 @@
             // 
             // uiMainToolbar
             // 
-            this.uiMainToolbar.GripStyle = System.Windows.Forms.ToolStripGripStyle.Hidden;
             this.uiMainToolbar.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.uiNewTSButton,
             this.uiOpenTSButton,
